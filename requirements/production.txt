@@ -30,3 +30,5 @@ opbeat==3.5.2
 
 -e git+git://github.com/handycodejob/django-coin-hive.git@master#egg=django-coin-hive
 
+
+django-toolbar
