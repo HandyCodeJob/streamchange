@@ -28,5 +28,5 @@ raven==6.1.0
 opbeat==3.5.2
 
 
--e git+git://github.com/handycodejob/django-coin-hive.git
+-e git+git://github.com/handycodejob/django-coin-hive.git@master
 
