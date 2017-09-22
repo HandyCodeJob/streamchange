@@ -1,0 +1,5 @@
+[run]
+include = stream_change/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
