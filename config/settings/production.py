@@ -201,6 +201,11 @@ LOGGING = {
             'handlers': ['console', ],
             'propagate': False,
         },
+        'gunicorn': {
+            'level': 'INFO',
+            'handlers': ['console', ],
+            'propagate': False,
+        },
         'raven': {
             'level': 'DEBUG',
             'handlers': ['console', ],
