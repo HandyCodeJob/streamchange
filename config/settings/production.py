@@ -196,6 +196,11 @@ LOGGING = {
             'handlers': ['console', ],
             'propagate': False,
         },
+        'django': {
+            'level': 'INFO',
+            'handlers': ['console', ],
+            'propagate': False,
+        },
         'raven': {
             'level': 'DEBUG',
             'handlers': ['console', ],
