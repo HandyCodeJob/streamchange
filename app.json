@@ -83,6 +83,9 @@
     },
     "SENTRY_DSN": {
       "required": true
+    },
+    "WEBSOCKET_PROXY": {
+      "required": false
     }
   },
   "formation": {
